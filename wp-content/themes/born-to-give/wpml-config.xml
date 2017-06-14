@@ -1,0 +1,25 @@
+<wpml-config>
+<admin-texts>
+<key name="borntogive_options">
+ <key name="logo_upload"/>
+ <key name="retina_logo_upload"/>
+ <key name="custom_favicon"/>
+ <key name="iphone_icon"/>
+ <key name="iphone_icon_retina"/>
+ <key name="ipad_icon"/>
+ <key name="ipad_icon_retina"/>
+ <key name="footer_widget_text"/>
+ <key name="footer_widget_links"/>
+ <key name="footer_copyright_text"/>
+ <key name="footer_bottom_text"/>
+ <key name="footer_bottom_links"/>
+ <key name="sidebar_position"/>
+ <key name="post_single_sidebar"/>
+ <key name="page_sidebar"/>
+ <key name="post_category_sidebar"/>
+ <key name="search_sidebar"/>
+ <key name="post_slider_readmore"/>
+ <key name="post_readmore"/>
+</key>
+</admin-texts>
+</wpml-config>

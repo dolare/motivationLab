@@ -1,0 +1,950 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Narration Shortcodes\n"
+"POT-Creation-Date: 2016-04-06 19:42+0530\n"
+"PO-Revision-Date: 2016-04-06 19:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: shortcodes.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: imic-shortcodes/imic-interface.php:15
+msgid "IMIC Framework Shortcodes"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:38
+msgid "Select a shortcode"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:40
+msgid "Shortcode"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:43 imic-shortcodes/imic-interface.php:729
+msgid "Accordions"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:44
+msgid "Button"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:45
+msgid "Calendar"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:46 imic-shortcodes/imic-interface.php:470
+msgid "Columns"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:47 imic-shortcodes/imic-interface.php:505
+msgid "Counters"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:48 imic-shortcodes/imic-interface.php:757
+msgid "Form"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:49 imic-shortcodes/imic-interface.php:233
+msgid "Google Map"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:50 imic-shortcodes/imic-interface.php:118
+msgid "Icons"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:51 imic-shortcodes/imic-interface.php:135
+msgid "Icons Box"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:52 imic-shortcodes/imic-interface.php:674
+msgid "Lists"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:53 imic-shortcodes/imic-interface.php:579
+msgid "Modal Box"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:54 imic-shortcodes/imic-interface.php:539
+msgid "Progress Bar"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:55 imic-shortcodes/imic-interface.php:241
+msgid "Sidebar"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:56 imic-shortcodes/imic-interface.php:627
+msgid "Table"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:57 imic-shortcodes/imic-interface.php:601
+msgid "Tooltip"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:58 imic-shortcodes/imic-interface.php:267
+msgid "Typography"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:59 imic-shortcodes/imic-interface.php:716
+msgid "Tabs"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:60 imic-shortcodes/imic-interface.php:743
+msgid "Toggles"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:61 imic-shortcodes/imic-interface.php:208
+msgid "Video"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:68
+msgid "Buttons"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:70
+msgid "Button colour"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:72 imic-shortcodes/imic-interface.php:102
+#: imic-shortcodes/imic-interface.php:178
+#: imic-shortcodes/imic-interface.php:455
+#: imic-shortcodes/imic-interface.php:529
+msgid "Default"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:73 imic-shortcodes/imic-interface.php:456
+#: imic-shortcodes/imic-interface.php:566
+msgid "Primary"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:74 imic-shortcodes/imic-interface.php:403
+#: imic-shortcodes/imic-interface.php:457
+#: imic-shortcodes/imic-interface.php:567
+msgid "Success"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:75 imic-shortcodes/imic-interface.php:402
+#: imic-shortcodes/imic-interface.php:458
+#: imic-shortcodes/imic-interface.php:568
+msgid "Info"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:76 imic-shortcodes/imic-interface.php:400
+#: imic-shortcodes/imic-interface.php:459
+#: imic-shortcodes/imic-interface.php:569
+msgid "Warning"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:77 imic-shortcodes/imic-interface.php:460
+#: imic-shortcodes/imic-interface.php:570
+msgid "Danger"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:81
+msgid "Button type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:83
+msgid "Enabled"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:84
+msgid "Disabled"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:88 imic-shortcodes/imic-interface.php:89
+msgid "Button text"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:92
+msgid "Button URL"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:96
+msgid "Open link in a new window?"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:100
+msgid "Button Size"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:103
+msgid "Extra Small"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:104
+msgid "Small"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:105
+msgid "Large"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:109
+msgid "Button Extra Class"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:120
+#: imic-shortcodes/imic-interface.php:142
+#: imic-shortcodes/imic-interface.php:366
+#: imic-shortcodes/imic-interface.php:522
+msgid "Icon image"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:129
+msgid "Event Calendar"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:137
+msgid "Fonts Icon image"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:147
+#: imic-shortcodes/imic-interface.php:759
+msgid "Title"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:151
+msgid "Description"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:155
+msgid "URL"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:159
+msgid "Select Icon Center"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:161
+#: imic-shortcodes/imic-interface.php:168
+#: imic-shortcodes/imic-interface.php:184
+#: imic-shortcodes/imic-interface.php:225
+#: imic-shortcodes/imic-interface.php:638
+msgid "Yes"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:162
+#: imic-shortcodes/imic-interface.php:169
+#: imic-shortcodes/imic-interface.php:185
+#: imic-shortcodes/imic-interface.php:224
+#: imic-shortcodes/imic-interface.php:639
+msgid "No"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:166
+msgid "Select Icon Outline"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:170
+msgid "Border"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:174
+msgid "Select Icon Shade"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:176
+#: imic-shortcodes/imic-interface.php:461
+msgid "Dark"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:177
+msgid "Light"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:182
+msgid "Select Icon Effect"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:189
+msgid "Select Icon Box"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:191
+msgid "Rounded"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:192
+msgid "Square"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:193
+msgid "Plain"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:197
+msgid "Select Icon Box type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:199
+msgid "With description"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:200
+msgid "With Out description"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:210
+msgid "Insert Vimeo or Youtube URL"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:214
+msgid "Video Width"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:218
+msgid "Video Height"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:222
+msgid "Full Width"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:235
+#: imic-shortcodes/imic-interface.php:273
+msgid "Address"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:243
+msgid "Select Sidebar"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:245
+#: imic-shortcodes/imic-interface.php:256
+msgid "Select"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:254
+msgid "Select column for sidebar"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:257
+msgid "Half"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:258
+msgid "one-third"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:259
+msgid "Full"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:269
+msgid "Type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:272
+#: imic-shortcodes/imic-interface.php:291
+msgid "Anchor Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:274
+msgid "Div"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:275
+#: imic-shortcodes/imic-interface.php:364
+msgid "Heading"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:276
+#: imic-shortcodes/imic-interface.php:340
+msgid "Paragraph"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:277
+#: imic-shortcodes/imic-interface.php:348
+msgid "Span Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:278
+#: imic-shortcodes/imic-interface.php:356
+msgid "Divider"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:279
+msgid "Row"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:280
+msgid "Section"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:281
+msgid "Spacer"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:282
+#: imic-shortcodes/imic-interface.php:395
+msgid "Alert Box"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:283
+#: imic-shortcodes/imic-interface.php:413
+msgid "Blockquote"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:284
+#: imic-shortcodes/imic-interface.php:421
+msgid "Dropcap"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:285
+#: imic-shortcodes/imic-interface.php:432
+msgid "Code"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:286
+#: imic-shortcodes/imic-interface.php:451
+msgid "Label"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:293
+msgid "Anchor Link"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:297
+#: imic-shortcodes/imic-interface.php:308
+#: imic-shortcodes/imic-interface.php:327
+#: imic-shortcodes/imic-interface.php:334
+#: imic-shortcodes/imic-interface.php:342
+#: imic-shortcodes/imic-interface.php:350
+#: imic-shortcodes/imic-interface.php:358
+#: imic-shortcodes/imic-interface.php:389
+#: imic-shortcodes/imic-interface.php:445
+#: imic-shortcodes/imic-interface.php:489
+#: imic-shortcodes/imic-interface.php:708
+msgid "Add Extra Class"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:303
+msgid "Address Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:306
+msgid "Div Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:313
+msgid "Spacer Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:315
+msgid "Select Spacer"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:317
+msgid "Spacer 10"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:318
+msgid "Spacer 20"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:319
+msgid "Spacer 30"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:320
+msgid "Spacer 40"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:321
+msgid "Spacer 50"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:322
+msgid "Spacer 75"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:323
+msgid "Spacer 100"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:332
+msgid "Section Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:371
+msgid "Select Heading Type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:373
+#: imic-shortcodes/imic-interface.php:399
+#: imic-shortcodes/imic-interface.php:436
+#: imic-shortcodes/imic-interface.php:558
+msgid "Standard"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:374
+msgid "Block Heading"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:378
+msgid "Select Heading Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:380
+msgid "H1"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:381
+msgid "H2"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:382
+#: imic-shortcodes/imic-interface.php:530
+msgid "H3"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:383
+msgid "H4"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:384
+msgid "H5"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:385
+#: imic-shortcodes/imic-interface.php:531
+msgid "H6"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:397
+msgid "Select Alert Box type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:401
+msgid "Error"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:407
+msgid "Add Close Button"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:415
+msgid "Blockquote Author Name"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:423
+msgid "Dropcap Type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:425
+msgid "Style 1"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:426
+msgid "Style 2"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:434
+msgid "Code Type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:437
+msgid "Inline"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:443
+msgid "Container"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:453
+msgid "Select Label Tag"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:472
+msgid "Layout"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:475
+#: imic-shortcodes/imic-interface.php:646
+#: imic-shortcodes/imic-interface.php:657
+#: imic-shortcodes/imic-interface.php:694
+msgid "1"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:476
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:477
+msgid "1/2 + 1/4 + 1/4"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:478
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:479
+msgid "1/3 + 2/3"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:480
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:481
+msgid "1/4 + 1/4 + 1/2"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:482
+msgid "1/4 + 1/2 + 1/4"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:483
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:484
+msgid "1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:485
+msgid "Custom"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:493
+msgid "Animation"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:496
+msgid "From Right"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:497
+msgid "From Left"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:507
+msgid "To Value"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:509
+msgid "Enter the number from which the counter counts up to."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:512
+msgid "Subject Text"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:514
+msgid "Enter the text which you would like to show below the counter."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:517
+msgid "Speed"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:519
+msgid ""
+"Enter the time you want the counter to take to complete, this is in "
+"milliseconds and optional. The default is 2000."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:527
+msgid "Text style"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:541
+msgid "Percentage"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:543
+msgid "Enter the percentage of the progress bar."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:546
+msgid "Progress Text"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:548
+msgid "Enter the text that you'd like shown above the bar, i.e. \"COMPLETED\"."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:551
+msgid "Progress Value"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:553
+msgid ""
+"Enter value that you'd like shown at the end of the bar on completion, i.e. "
+"\"90\"."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:556
+msgid "Progress Bar Type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:559
+msgid "Striped"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:560
+msgid "Colored"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:564
+msgid "Progress Bar Colour Type"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:572
+msgid "Select progress bar color for progress bar type striped and colored."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:581
+msgid "Modal Box ID"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:585
+msgid "Modal Box Title"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:589
+msgid "Modal Box Body Text"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:593
+msgid "Modal Box Button Text"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:603
+msgid "Text"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:605
+msgid "Enter the text for the tooltip."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:608
+msgid "Link"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:610
+msgid "Enter the link that the tooltip text links to."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:613
+msgid "Direction"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:615
+msgid "Top"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:616
+msgid "Bottom"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:617
+msgid "Left"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:618
+msgid "Right"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:620
+msgid "Choose the direction in which the tooltip appears."
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:629
+msgid "Table style"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:631
+msgid "Striped table"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:632
+msgid "Bordered table"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:636
+msgid "Table Head"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:644
+msgid "Number of columns"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:647
+#: imic-shortcodes/imic-interface.php:658
+#: imic-shortcodes/imic-interface.php:695
+msgid "2"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:648
+#: imic-shortcodes/imic-interface.php:659
+#: imic-shortcodes/imic-interface.php:696
+msgid "3"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:649
+#: imic-shortcodes/imic-interface.php:660
+#: imic-shortcodes/imic-interface.php:697
+msgid "4"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:650
+#: imic-shortcodes/imic-interface.php:661
+#: imic-shortcodes/imic-interface.php:698
+msgid "5"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:651
+#: imic-shortcodes/imic-interface.php:662
+#: imic-shortcodes/imic-interface.php:699
+msgid "6"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:655
+msgid "Number of rows"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:663
+#: imic-shortcodes/imic-interface.php:700
+msgid "7"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:664
+#: imic-shortcodes/imic-interface.php:701
+msgid "8"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:665
+#: imic-shortcodes/imic-interface.php:702
+msgid "9"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:666
+#: imic-shortcodes/imic-interface.php:703
+msgid "10"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:676
+msgid "List style"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:678
+msgid "Custom Unordered List"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:679
+msgid "Unordered List"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:680
+msgid "Ordered List"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:681
+msgid "Icon List"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:682
+msgid "Inline List"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:683
+msgid "Description List"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:687
+msgid "List icon"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:692
+msgid "Number of list items"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:718
+msgid "Tab ID"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:722
+msgid "Number of Tabs"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:731
+msgid "Accordion ID"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:735
+msgid "Number of Accordions"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:745
+msgid "Toggle ID"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:749
+msgid "Number of Toggles"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:763
+msgid "Enter Email with comma seperated"
+msgstr ""
+
+#: imic-shortcodes/imic-interface.php:771
+msgid "Insert Shortcode"
+msgstr ""
+
+#: shortcodes-functions.php:744
+msgid "Close"
+msgstr ""
+
+#: shortcodes-functions.php:775
+msgid "Name"
+msgstr ""
+
+#: shortcodes-functions.php:778
+msgid "Last name"
+msgstr ""
+
+#: shortcodes-functions.php:781
+msgid "Email"
+msgstr ""
+
+#: shortcodes-functions.php:784
+msgid "Phone"
+msgstr ""
+
+#: shortcodes-functions.php:789
+msgid "Message"
+msgstr ""
+
+#: shortcodes-functions.php:793
+msgid "Submit"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Narration Shortcodes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.imithemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add shortcode generator to posts editor"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imithemes"
+msgstr ""

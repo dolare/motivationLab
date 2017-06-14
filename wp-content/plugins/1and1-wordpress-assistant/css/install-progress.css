@@ -1,0 +1,23 @@
+html,
+body {
+  height: auto;
+}
+#oneandone-community-panel {
+  margin: 5px 0 15px;
+}
+.oneandone-community-image {
+  float: left;
+  margin: 20px 20px 20px 0px;
+}
+.update-messages.lp-show-latest {
+  display: none;
+}
+@media only screen and (max-width: 500px) {
+  .oneandone-community-image {
+    float: none;
+    text-align: center;
+  }
+  .oneandone-setup-links {
+    text-align: center;
+  }
+}

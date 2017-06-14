@@ -1,0 +1,92 @@
+a, .text-primary, .btn-primary .badge, .btn-link,a.list-group-item.active > .badge,.nav-pills > .active > a > .badge, p.drop-caps:first-letter, .accent-color, .nav-np .next:hover, .nav-np .prev:hover, .basic-link, .pagination > li > a:hover,.pagination > li > span:hover,.pagination > li > a:focus,.pagination > li > span:focus, .icon-box-inline span, .pricing-column h3, .post .post-title a:hover, a, .post-actions .comment-count a:hover, .pricing-column .features a:hover, a:hover, .list-group-item a:hover, .icon-box.ibox-plain .ibox-icon i,.icon-box.ibox-plain .ibox-icon img, .icon-box.ibox-border .ibox-icon i,.icon-box.ibox-border .ibox-icon img, address strong, ul.checks > li > i, ul.angles > li > i, ul.carets > li > i, ul.chevrons > li > i, ul.icon > li > i, .widget li .meta-data a:hover, .sort-source li.active a, #menu-toggle:hover, .site-footer .footer_widget a:hover, .megamenu-sub-title i, .dd-menu .megamenu-container ul li a:hover, .fact-ico, .widget_categories ul li a:hover, .widget_archive ul li a:hover, .widget_recent_entries ul li a:hover, .widget_recent_entries ul li a:hover, .widget_recent_comments ul li a:hover, .widget_links ul li a:hover, .widget_meta ul li a:hover, .widget.recent_posts ul li h5 a:hover, .testimonial-block blockquote:before, .testimonial-info strong, .header-style2 .dd-menu > li:hover > a, .header-style3 .dd-menu > li:hover > a, .widget_links ul li.active a, .causes-list-item h4 a, .urgent-cause .post-title a, .site-footer .sp-links:hover strong, .header-info-col i, .flex-caption-cause h3 a, .dd-menu > li > a > i, .cause-target, .owl-carousel .blog-grid-item h3 a:hover, .sticky .dd-menu > li:hover > a > i, .header-style2 .dd-menu > li:hover > a > i, .header-style3 .dd-menu > li:hover > a > i, .goal-amount, .widget a:hover{
+	color:#F23827;
+}
+p.drop-caps.secondary:first-letter, .accent-bg, .btn-primary,
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active,
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+.label-primary,
+.progress-bar-primary,
+a.list-group-item.active,
+a.list-group-item.active:hover,
+a.list-group-item.active:focus,
+.panel-primary > .panel-heading, .carousel-indicators .active, .flex-control-nav a:hover, .flex-control-nav a.flex-active, .media-box .media-box-wrapper, .icon-box.icon-box-style1:hover .ico, .owl-theme .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span, .ibox-effect.ibox-dark .ibox-icon i:hover,.ibox-effect.ibox-dark:hover .ibox-icon i,.ibox-border.ibox-effect.ibox-dark .ibox-icon i:after, .icon-box .ibox-icon i,.icon-box .ibox-icon img, .icon-box .ibox-icon i,.icon-box .ibox-icon img, .icon-box.ibox-dark.ibox-outline:hover .ibox-icon i, .pricing-column.highlight h3, #back-to-top:hover, .widget_donations, .fblock-image-overlay, .overlay-accent, .tagcloud a:hover, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .accordion-heading .accordion-toggle.active, .predefined-amount li label.selected, .donation-choice-breaker, .event-date, .featured-links, hr.sm, hr.sm:before, hr.sm:after, .gallery-updates, .block-title:before, .block-title:after, .widgettitle:before, .widgettitle:after, .widget-title:before, .widget-title:after, .vc_custom_heading:before, .vc_custom_heading:after, .social-share-bar .share-buttons-tc li a, .charitable-submit-field .button, .charitable-login-form .button-primary, .donation-summary{
+  background-color: #F23827;
+}
+.donate-button, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #content input.button.alt:hover, .woocommerce a.button.alt:active, .woocommerce button.button.alt:active, .woocommerce input.button.alt:active, .woocommerce #respond input#submit.alt:active, .woocommerce #content input.button.alt:active, .woocommerce-page a.button.alt:active, .woocommerce-page button.button.alt:active, .woocommerce-page input.button.alt:active, .woocommerce-page #respond input#submit.alt:active, .woocommerce-page #content input.button.alt:active, .wpcf7-form .wpcf7-submit, #charitable-donation-form .donation-amounts .donation-amount.selected, a.featured-link:hover{
+  background-color: #F23827!important;
+}
+p.demo_store, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .woocommerce span.onsale, .woocommerce-page span.onsale, .wpcf7-form .wpcf7-submit, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_layered_nav ul li.chosen a, .woocommerce-page .widget_layered_nav ul li.chosen a, #charitable_field_recipient .charitable-recipient-type.selected{
+  background: #F23827;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary{
+  background: #F23827;
+  opacity:.9
+}
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus,
+a.thumbnail:hover,
+a.thumbnail:focus,
+a.thumbnail.active,
+a.list-group-item.active,
+a.list-group-item.active:hover,
+a.list-group-item.active:focus,
+.panel-primary,
+.panel-primary > .panel-heading, .btn-primary.btn-transparent, .icon-box.icon-box-style1 .ico, .icon-box-inline span, .icon-box.ibox-border .ibox-icon, .icon-box.ibox-outline .ibox-icon, .icon-box.ibox-dark.ibox-outline:hover .ibox-icon, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .predefined-amount li label.selected, .event-ticket-left .ticket-handle, #charitable-donation-form .donation-amounts .donation-amount.selected, #charitable_field_recipient .charitable-recipient-type:hover, #charitable_field_recipient .charitable-recipient-type.selected{
+	border-color:#F23827;
+}
+.panel-primary > .panel-heading + .panel-collapse .panel-body, .widget_special_events .event-item, .dd-menu > li ul, .woocommerce .woocommerce-info, .woocommerce-page .woocommerce-info, .woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message{
+	border-top-color:#F23827;
+}
+.panel-primary > .panel-footer + .panel-collapse .panel-body{
+	border-bottom-color:#F23827;
+}
+.dd-menu > ul > li > ul li:hover{
+	border-left-color:#F23827;
+}
+.ibox-border.ibox-effect.ibox-dark .ibox-icon i:hover,.ibox-border.ibox-effect.ibox-dark:hover .ibox-icon i {
+	box-shadow:0 0 0 1px #F23827;
+}
+.ibox-effect.ibox-dark .ibox-icon i:after {
+	box-shadow:0 0 0 2px #F23827;
+}
+@media only screen and (max-width: 992px) {
+	.dd-menu > li:hover > a, .dd-menu > li:hover > a > i{
+		color:#F23827;
+	}
+}

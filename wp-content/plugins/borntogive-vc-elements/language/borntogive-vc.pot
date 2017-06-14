@@ -1,0 +1,757 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: borntogive vc elements\n"
+"POT-Creation-Date: 2017-03-23 02:19+0530\n"
+"PO-Revision-Date: 2017-03-23 02:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vc_custom_element.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: btg_elements_fields.php:17
+msgid "BORNTOGIVE Causes"
+msgstr ""
+
+#: btg_elements_fields.php:20 btg_elements_fields.php:161
+#: btg_elements_fields.php:275 btg_elements_fields.php:394
+#: btg_elements_fields.php:473 btg_elements_fields.php:636
+#: btg_elements_fields.php:690 btg_elements_fields.php:842
+#: btg_elements_fields.php:908
+msgid "Born To Give"
+msgstr ""
+
+#: btg_elements_fields.php:27
+msgid "Causes/Campaigns View"
+msgstr ""
+
+#: btg_elements_fields.php:29 btg_elements_fields.php:178
+#: btg_elements_fields.php:482 btg_elements_fields.php:699
+msgid "List"
+msgstr ""
+
+#: btg_elements_fields.php:29 btg_elements_fields.php:178
+#: btg_elements_fields.php:284 btg_elements_fields.php:482
+#: btg_elements_fields.php:699
+msgid "Grid"
+msgstr ""
+
+#: btg_elements_fields.php:29
+msgid "Carousel"
+msgstr ""
+
+#: btg_elements_fields.php:30
+msgid "Select causes view."
+msgstr ""
+
+#: btg_elements_fields.php:35 btg_elements_fields.php:184
+#: btg_elements_fields.php:303 btg_elements_fields.php:488
+msgid "Grid Column"
+msgstr ""
+
+#: btg_elements_fields.php:37 btg_elements_fields.php:186
+#: btg_elements_fields.php:305 btg_elements_fields.php:409
+#: btg_elements_fields.php:706
+msgid "One Column"
+msgstr ""
+
+#: btg_elements_fields.php:37 btg_elements_fields.php:186
+#: btg_elements_fields.php:305 btg_elements_fields.php:409
+#: btg_elements_fields.php:490 btg_elements_fields.php:706
+msgid "Two Columns"
+msgstr ""
+
+#: btg_elements_fields.php:37 btg_elements_fields.php:186
+#: btg_elements_fields.php:490 btg_elements_fields.php:706
+msgid "Three Columns"
+msgstr ""
+
+#: btg_elements_fields.php:37 btg_elements_fields.php:186
+#: btg_elements_fields.php:490 btg_elements_fields.php:706
+msgid "Four Columns"
+msgstr ""
+
+#: btg_elements_fields.php:38
+msgid "Select Columns of grid/carousel."
+msgstr ""
+
+#: btg_elements_fields.php:47 btg_elements_fields.php:207
+msgid "Show Excerpt"
+msgstr ""
+
+#: btg_elements_fields.php:49 btg_elements_fields.php:56
+#: btg_elements_fields.php:64 btg_elements_fields.php:138
+#: btg_elements_fields.php:199 btg_elements_fields.php:209
+#: btg_elements_fields.php:252 btg_elements_fields.php:317
+#: btg_elements_fields.php:330 btg_elements_fields.php:371
+#: btg_elements_fields.php:503 btg_elements_fields.php:514
+#: btg_elements_fields.php:521 btg_elements_fields.php:528
+#: btg_elements_fields.php:622 btg_elements_fields.php:726
+#: btg_elements_fields.php:747 btg_elements_fields.php:755
+#: btg_elements_fields.php:879
+msgid "Yes"
+msgstr ""
+
+#: btg_elements_fields.php:49 btg_elements_fields.php:56
+#: btg_elements_fields.php:209 btg_elements_fields.php:317
+#: btg_elements_fields.php:726 btg_elements_fields.php:755
+msgid "No"
+msgstr ""
+
+#: btg_elements_fields.php:54
+msgid "Show Pagination"
+msgstr ""
+
+#: btg_elements_fields.php:61 btg_elements_fields.php:196
+#: btg_elements_fields.php:327
+msgid "Show Filters?"
+msgstr ""
+
+#: btg_elements_fields.php:63
+msgid "Show Filters for Causes/Campaigns."
+msgstr ""
+
+#: btg_elements_fields.php:69
+msgid "Causes/Campaign Categories"
+msgstr ""
+
+#: btg_elements_fields.php:70
+msgid ""
+"Show campaigns by specific categories. Search and enter by typing category "
+"names."
+msgstr ""
+
+#: btg_elements_fields.php:88
+msgid "Campaigns ID"
+msgstr ""
+
+#: btg_elements_fields.php:90
+msgid ""
+"Show specific campaigns. You can provide a single number or multiple IDs as "
+"a comma separated list."
+msgstr ""
+
+#: btg_elements_fields.php:96
+msgid "Campaigns Creator"
+msgstr ""
+
+#: btg_elements_fields.php:98
+msgid "Only show campaigns created by a certain user. Enter the user's ID."
+msgstr ""
+
+#: btg_elements_fields.php:104
+msgid "Campaigns Exclude"
+msgstr ""
+
+#: btg_elements_fields.php:106
+msgid ""
+"Exclude specific campaigns by their ID. Pass multiple IDs as a comma "
+"separated list to exclude more than one."
+msgstr ""
+
+#: btg_elements_fields.php:110
+msgid "Order Campaigns by"
+msgstr ""
+
+#: btg_elements_fields.php:112
+msgid "Post Date"
+msgstr ""
+
+#: btg_elements_fields.php:112
+msgid "Popular"
+msgstr ""
+
+#: btg_elements_fields.php:112
+msgid "Ending"
+msgstr ""
+
+#: btg_elements_fields.php:112 btg_elements_fields.php:292
+#: btg_elements_fields.php:851
+msgid "Title"
+msgstr ""
+
+#: btg_elements_fields.php:113
+msgid ""
+"The order in which campaigns are displayed. Popular is to order campaigns by "
+"the amount of money they have raised. Ending is to order campaigns by how "
+"soon they are ending (soonest to end is shown first)"
+msgstr ""
+
+#: btg_elements_fields.php:118
+msgid "Order Campaigns"
+msgstr ""
+
+#: btg_elements_fields.php:120
+msgid "Descending"
+msgstr ""
+
+#: btg_elements_fields.php:120
+msgid "Ascending"
+msgstr ""
+
+#: btg_elements_fields.php:121
+msgid "The order for the campaigns)"
+msgstr ""
+
+#: btg_elements_fields.php:128
+msgid "Number of Causes/Campaigns"
+msgstr ""
+
+#: btg_elements_fields.php:131
+msgid "Insert number of causes/campaigns to show per page."
+msgstr ""
+
+#: btg_elements_fields.php:135
+msgid "Show Inactive Campaigns/Causes?"
+msgstr ""
+
+#: btg_elements_fields.php:137
+msgid "Show Campaigns/Causes that have expired."
+msgstr ""
+
+#: btg_elements_fields.php:158
+msgid "BORNTOGIVE Events"
+msgstr ""
+
+#: btg_elements_fields.php:168
+msgid "Event Type"
+msgstr ""
+
+#: btg_elements_fields.php:170
+msgid "Future Events"
+msgstr ""
+
+#: btg_elements_fields.php:170
+msgid "Past Events"
+msgstr ""
+
+#: btg_elements_fields.php:171
+msgid "Select event type."
+msgstr ""
+
+#: btg_elements_fields.php:176
+msgid "Event View"
+msgstr ""
+
+#: btg_elements_fields.php:179
+msgid "Select event view."
+msgstr ""
+
+#: btg_elements_fields.php:187 btg_elements_fields.php:306
+#: btg_elements_fields.php:491
+msgid "Select Columns of grid."
+msgstr ""
+
+#: btg_elements_fields.php:198
+msgid "Show Filters for Events Grid."
+msgstr ""
+
+#: btg_elements_fields.php:215
+msgid "Category Filter"
+msgstr ""
+
+#: btg_elements_fields.php:216
+msgid "Enter/Select event categories from which you would like to show events"
+msgstr ""
+
+#: btg_elements_fields.php:217
+msgid ""
+"Show events by specific categories. Search and enter by typing category "
+"names."
+msgstr ""
+
+#: btg_elements_fields.php:235
+msgid "Number of Events"
+msgstr ""
+
+#: btg_elements_fields.php:238
+msgid "Insert number of events to show per page."
+msgstr ""
+
+#: btg_elements_fields.php:242 btg_elements_fields.php:361
+#: btg_elements_fields.php:442 btg_elements_fields.php:612
+#: btg_elements_fields.php:825
+msgid "Image size"
+msgstr ""
+
+#: btg_elements_fields.php:245 btg_elements_fields.php:364
+#: btg_elements_fields.php:445 btg_elements_fields.php:615
+#: btg_elements_fields.php:828
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: btg_elements_fields.php:249 btg_elements_fields.php:368
+#: btg_elements_fields.php:619
+msgid "Show Pagination?"
+msgstr ""
+
+#: btg_elements_fields.php:251
+msgid "Show pagination for Events."
+msgstr ""
+
+#: btg_elements_fields.php:272
+msgid "BORNTOGIVE Gallery"
+msgstr ""
+
+#: btg_elements_fields.php:282
+msgid "Gallery Type"
+msgstr ""
+
+#: btg_elements_fields.php:284
+msgid "Frame"
+msgstr ""
+
+#: btg_elements_fields.php:285
+msgid "Select gallery type."
+msgstr ""
+
+#: btg_elements_fields.php:295
+msgid "Insert Gallery title."
+msgstr ""
+
+#: btg_elements_fields.php:305 btg_elements_fields.php:409
+msgid "Three Column"
+msgstr ""
+
+#: btg_elements_fields.php:305 btg_elements_fields.php:409
+msgid "Four Column"
+msgstr ""
+
+#: btg_elements_fields.php:315
+msgid "Gallery Caption"
+msgstr ""
+
+#: btg_elements_fields.php:318
+msgid "Show gallery caption?"
+msgstr ""
+
+#: btg_elements_fields.php:329
+msgid "Show filters for Gallery."
+msgstr ""
+
+#: btg_elements_fields.php:335
+msgid "Gallery Categories"
+msgstr ""
+
+#: btg_elements_fields.php:336
+msgid ""
+"Show gallery posts by specific categories. Search and enter by typing "
+"category names."
+msgstr ""
+
+#: btg_elements_fields.php:354
+msgid "Number of Gallery"
+msgstr ""
+
+#: btg_elements_fields.php:357 btg_elements_fields.php:438
+msgid "Insert number of gallery to show per page."
+msgstr ""
+
+#: btg_elements_fields.php:370 btg_elements_fields.php:621
+msgid "Show pagination for Posts."
+msgstr ""
+
+#: btg_elements_fields.php:391
+msgid "BORNTOGIVE Testimonial"
+msgstr ""
+
+#: btg_elements_fields.php:399
+msgid "Testimonial View"
+msgstr ""
+
+#: btg_elements_fields.php:401
+msgid "Type 1"
+msgstr ""
+
+#: btg_elements_fields.php:401
+msgid "Type 2"
+msgstr ""
+
+#: btg_elements_fields.php:402
+msgid "Select testimonial view."
+msgstr ""
+
+#: btg_elements_fields.php:407
+msgid "Carousel Column"
+msgstr ""
+
+#: btg_elements_fields.php:409
+msgid "Five Column"
+msgstr ""
+
+#: btg_elements_fields.php:409
+msgid "Six Column"
+msgstr ""
+
+#: btg_elements_fields.php:410
+msgid "Select Columns of carousel."
+msgstr ""
+
+#: btg_elements_fields.php:416
+msgid "Testimonial Categories"
+msgstr ""
+
+#: btg_elements_fields.php:417
+msgid ""
+"Show testimonials by specific categories. Search and enter by typing "
+"category names."
+msgstr ""
+
+#: btg_elements_fields.php:435
+msgid "Number of Testimonials"
+msgstr ""
+
+#: btg_elements_fields.php:470
+msgid "BORNTOGIVE Posts"
+msgstr ""
+
+#: btg_elements_fields.php:480
+msgid "Post View"
+msgstr ""
+
+#: btg_elements_fields.php:482
+msgid "Grid with Carousel"
+msgstr ""
+
+#: btg_elements_fields.php:483
+msgid "Select post view."
+msgstr ""
+
+#: btg_elements_fields.php:500
+msgid "Show Tags?"
+msgstr ""
+
+#: btg_elements_fields.php:502
+msgid "Show post tags in grid view."
+msgstr ""
+
+#: btg_elements_fields.php:512
+msgid "Show Post Date?"
+msgstr ""
+
+#: btg_elements_fields.php:519
+msgid "Show Post Author?"
+msgstr ""
+
+#: btg_elements_fields.php:526
+msgid "Show Post Categories?"
+msgstr ""
+
+#: btg_elements_fields.php:533 btg_elements_fields.php:535
+#: btg_elements_fields.php:760 btg_elements_fields.php:762
+#: btg_elements_fields.php:926
+msgid "Content"
+msgstr ""
+
+#: btg_elements_fields.php:535 btg_elements_fields.php:762
+msgid "Excerpt"
+msgstr ""
+
+#: btg_elements_fields.php:536
+msgid ""
+"If content is chosen then the full content of posts will be shown until the "
+"MORE tag which can be inserted in the post content."
+msgstr ""
+
+#: btg_elements_fields.php:543
+msgid "Number of words to show as excerpt"
+msgstr ""
+
+#: btg_elements_fields.php:546
+msgid ""
+"This is the number of words that will be shown for the post excerpt. This "
+"text comes from the post content or excerpt field."
+msgstr ""
+
+#: btg_elements_fields.php:556 btg_elements_fields.php:783
+msgid "Excerpt closing text"
+msgstr ""
+
+#: btg_elements_fields.php:559 btg_elements_fields.php:786
+msgid ""
+"Enter the text that you would like to show just after the limited content "
+"ends. Default is ..."
+msgstr ""
+
+#: btg_elements_fields.php:568
+msgid "Post Categories"
+msgstr ""
+
+#: btg_elements_fields.php:570
+msgid ""
+"Show posts by specific categories. Search and enter by typing category names."
+msgstr ""
+
+#: btg_elements_fields.php:586
+msgid "Post Authors"
+msgstr ""
+
+#: btg_elements_fields.php:588
+msgid ""
+"Show posts by specific users/authors. Search and enter by typing their names."
+msgstr ""
+
+#: btg_elements_fields.php:605
+msgid "Number of Posts"
+msgstr ""
+
+#: btg_elements_fields.php:608
+msgid "Insert number of posts to show per page."
+msgstr ""
+
+#: btg_elements_fields.php:633
+msgid "BORNTOGIVE Grid Container"
+msgstr ""
+
+#: btg_elements_fields.php:645
+msgid "Background Image"
+msgstr ""
+
+#: btg_elements_fields.php:648
+msgid "Choose a grid image"
+msgstr ""
+
+#: btg_elements_fields.php:654
+msgid "Grid Description"
+msgstr ""
+
+#: btg_elements_fields.php:657
+msgid "Enter grid description."
+msgstr ""
+
+#: btg_elements_fields.php:663
+msgid "Grid URL"
+msgstr ""
+
+#: btg_elements_fields.php:666
+msgid "Enter grid URL."
+msgstr ""
+
+#: btg_elements_fields.php:687
+msgid "BORNTOGIVE Team"
+msgstr ""
+
+#: btg_elements_fields.php:697
+msgid "Team View"
+msgstr ""
+
+#: btg_elements_fields.php:700
+msgid "Select view type for team."
+msgstr ""
+
+#: btg_elements_fields.php:704
+msgid "Column Style"
+msgstr ""
+
+#: btg_elements_fields.php:706
+msgid "Five Columns"
+msgstr ""
+
+#: btg_elements_fields.php:706
+msgid "Six Columns"
+msgstr ""
+
+#: btg_elements_fields.php:707
+msgid "Select Columns of carousel/grid."
+msgstr ""
+
+#: btg_elements_fields.php:716
+msgid "Style"
+msgstr ""
+
+#: btg_elements_fields.php:718
+msgid "Standard"
+msgstr ""
+
+#: btg_elements_fields.php:718
+msgid "Round Images"
+msgstr ""
+
+#: btg_elements_fields.php:719
+msgid ""
+"Select style for team. If Round Images is chosen then enter Image "
+"Size(option at the botton) to some square size like 400x400 for best results."
+msgstr ""
+
+#: btg_elements_fields.php:723
+msgid "Activate Carousel?"
+msgstr ""
+
+#: btg_elements_fields.php:725
+msgid "Activate carousel for team."
+msgstr ""
+
+#: btg_elements_fields.php:737
+msgid "Number of Team Members"
+msgstr ""
+
+#: btg_elements_fields.php:740
+msgid "Insert number of team members to show."
+msgstr ""
+
+#: btg_elements_fields.php:744
+msgid "Link to details page?"
+msgstr ""
+
+#: btg_elements_fields.php:746
+msgid "Check to enable link on thumbnail and title to open details page."
+msgstr ""
+
+#: btg_elements_fields.php:752
+msgid "Show Details?"
+msgstr ""
+
+#: btg_elements_fields.php:754
+msgid "Show team member details like social links."
+msgstr ""
+
+#: btg_elements_fields.php:763
+msgid ""
+"If content is chosen then the full content of team posts will be shown until "
+"the MORE tag which can be inserted in the post content."
+msgstr ""
+
+#: btg_elements_fields.php:770
+msgid "Number of Words to show as excerpt"
+msgstr ""
+
+#: btg_elements_fields.php:773
+msgid ""
+"This is the number of words that will be shown for the team member content. "
+"This text comes from the team post content or excerpt field."
+msgstr ""
+
+#: btg_elements_fields.php:796
+msgid "Read more link text"
+msgstr ""
+
+#: btg_elements_fields.php:799
+msgid ""
+"Enter the link text which will be shown after the limited content/excerpt."
+msgstr ""
+
+#: btg_elements_fields.php:808
+msgid "Team Categories"
+msgstr ""
+
+#: btg_elements_fields.php:809
+msgid ""
+"Show team members by specific categories. Search and enter by typing "
+"category names."
+msgstr ""
+
+#: btg_elements_fields.php:839
+msgid "BORNTOGIVE Featured Link"
+msgstr ""
+
+#: btg_elements_fields.php:854
+msgid "Insert title for featured link."
+msgstr ""
+
+#: btg_elements_fields.php:860
+msgid "Sub title"
+msgstr ""
+
+#: btg_elements_fields.php:863
+msgid "Insert sub title for featured link."
+msgstr ""
+
+#: btg_elements_fields.php:869
+msgid "URL"
+msgstr ""
+
+#: btg_elements_fields.php:872
+msgid "Insert URL for featured link."
+msgstr ""
+
+#: btg_elements_fields.php:876
+msgid "Open in new tab?"
+msgstr ""
+
+#: btg_elements_fields.php:878
+msgid "Check to open featured link URL in a new tab or window."
+msgstr ""
+
+#: btg_elements_fields.php:885
+msgid "Background Color"
+msgstr ""
+
+#: btg_elements_fields.php:887
+msgid ""
+"Select custom background color for the featured link block. By default it "
+"will be a darker shade of your selected theme color scheme/custom color at "
+"Theme Options."
+msgstr ""
+
+#: btg_elements_fields.php:892
+msgid "Text Color"
+msgstr ""
+
+#: btg_elements_fields.php:894
+msgid ""
+"Select custom text color for the featured link block. By default it is "
+"#ffffff."
+msgstr ""
+
+#: btg_elements_fields.php:905
+msgid "BORNTOGIVE Featured Text"
+msgstr ""
+
+#: btg_elements_fields.php:917
+msgid "Head Line"
+msgstr ""
+
+#: btg_elements_fields.php:920
+msgid "Insert head line for featured text.\",\" separated."
+msgstr ""
+
+#: btg_elements_fields.php:929
+msgid "Insert content for featured text."
+msgstr ""
+
+#: btg_shortcodes_function.php:111 btg_shortcodes_function.php:420
+msgid "Show All"
+msgstr ""
+
+#: btg_shortcodes_function.php:273
+msgid "Attendees"
+msgstr ""
+
+#: btg_shortcodes_function.php:277
+msgid "Location"
+msgstr ""
+
+#: btg_shortcodes_function.php:828
+msgid "Read more"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "borntogive vc elements"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.imithemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom Elements of Visual Composer"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imithemes"
+msgstr ""

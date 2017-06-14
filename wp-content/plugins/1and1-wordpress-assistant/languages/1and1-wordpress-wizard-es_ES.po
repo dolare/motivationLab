@@ -1,0 +1,598 @@
+# This file is distributed under the same license as the 1&1 WordPress Wizard package.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1&1 WordPress Wizard\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/1and1-wordpress-wizard\n"
+"POT-Creation-Date: 2015-08-17 08:39+0200\n"
+"PO-Revision-Date: 2016-06-29 14:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: 1and1-wordpress-wizard.php:124
+msgid "The 1&1 WP Assistant could not be activated. To activate the plugin, you need WordPress 3.5 or higher."
+msgstr "Podrán encontrarle mejor en Google si publica su página web con un dominio correcto."
+
+#: inc/batch-installer.php:57
+msgid "The 1&1 WP Assistant has been deactivated, you can find it in the %s area."
+msgstr "Se ha desactivado el asistente de 1&1 WP, pero se encuentra a su disposición en %s."
+
+#: inc/batch-installer.php:58
+msgctxt "area"
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/batch-installer.php:65
+msgid "Installation completed."
+msgstr "Instalación finalizada"
+
+#: inc/batch-installer.php:66
+msgid "You are now ready to use your WordPress installation. You can continue customizing the selected theme or write your first blog post."
+msgstr "¡Su página web WordPress ya está lista! Si lo desea, ahora puede instalar más <a href=\"%s\" title=\"plugins\">plugins</a> y añadir más <a href=\"%s\" title=\"temas\">temas</a>."
+
+#: inc/batch-installer.php:69
+msgid "Customize the Theme"
+msgstr "Adaptar temas"
+
+#: inc/batch-installer.php:73
+msgid "Write a post"
+msgstr "Crear entrada"
+
+#: inc/batch-installer.php:82
+msgid "http://community.1and1.com"
+msgstr "http://community.1and1.com"
+
+#: inc/batch-installer.php:89
+msgid "Community logo"
+msgstr "Logotipo comunidad"
+
+#: inc/batch-installer.php:93
+msgid "1&1 Community"
+msgstr "1&1 Community"
+
+#: inc/batch-installer.php:94
+msgid ""
+"Use the 1&1 Community to talk about interesting web projects with WordPress, and get to know the people behind the projects.\n"
+"Learn more about important strategies, themes, and plugins.\n"
+"Discuss both simple and complex solutions to promote your next project."
+msgstr "Ideas y tutoriales para sus páginas web: 1&1 Community"
+
+#: inc/batch-installer.php:100
+msgid "Go to our community site"
+msgstr "A la página Community"
+
+#: inc/batch-installer.php:116
+msgid "No theme has been selected. The current theme will be kept."
+msgstr "No ha seleccionado ningún tema nuevo. Se mantiene el tema actual."
+
+#: inc/batch-installer.php:134
+msgid "Installing theme: %s"
+msgstr "Instalando el tema %s"
+
+#: inc/batch-installer.php:150
+msgid "Installing plugins (%s)"
+msgstr "Instalando los plugins (%s)"
+
+#: inc/batch-installer.php:159
+msgid "No Plugins have been selected."
+msgstr "No ha seleccionado ningún plugin."
+
+#: inc/batch-installer.php:173
+msgid "Installing plugin: %1$s (%2$s/%3$s)"
+msgstr "Instalando plugin: %1$s (%2$s/%3$s)"
+
+#: inc/batch-installer.php:184
+msgid "Activating theme..."
+msgstr "Activando tema..."
+
+#: inc/batch-installer.php:190
+msgid "Activating plugins..."
+msgstr "Activando plugins..."
+
+#: inc/plugin-categories-catalog.php:13
+msgid "Spam Protection"
+msgstr "Protección antispam"
+
+#: inc/plugin-categories-catalog.php:14
+msgid "Content Management"
+msgstr "Content Management"
+
+#: inc/plugin-categories-catalog.php:15
+msgid "Comment Management"
+msgstr "Administrar comentario"
+
+#: inc/plugin-categories-catalog.php:16
+msgid "Search Engine Optimization"
+msgstr "Optimización en buscadores"
+
+#: inc/plugin-categories-catalog.php:17
+msgid "Forms"
+msgstr "Formularios"
+
+#: inc/plugin-categories-catalog.php:18
+msgid "Caching"
+msgstr "Caching"
+
+#: inc/plugin-installer-skin.php:30
+msgid "Successfully installed the plugin <strong>%1s$ %2s$</strong>."
+msgstr "Se ha instalado el plugin <strong>%1s$ %2s$</strong>."
+
+#: inc/plugin-installer-skin.php:42
+msgid "The plugin has already been installed."
+msgstr "Este plugin ya está instalado."
+
+#: inc/setup-wizard-dispatcher.php:18
+msgid "Sorry, you do not have permission to access the 1&1 WP Assistant."
+msgstr "No dispone de los derechos necesarios para acceder al asistente de 1&1 WP. Póngase en contacto con el administrador de su página web."
+
+#: inc/theme-installer-skin.php:23
+msgid "The theme already exists."
+msgstr "Este tema ya existe."
+
+#: inc/views/setup-wizard-header.php:18
+msgid "Website Type"
+msgstr "Tipo de página web"
+
+#: inc/views/setup-wizard-header.php:22
+msgid "Appearance"
+msgstr "Diseño"
+
+#: inc/views/setup-wizard-header.php:26
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/views/setup-wizard-installation-step.php:17
+msgid "Processing setup:"
+msgstr "Vista general"
+
+#: inc/views/setup-wizard-installation-step.php:19
+msgid "Please wait until all theme/plugins have been downloaded and installed."
+msgstr "Espere a que se hayan descargado e instalado todos los componentes."
+
+#: inc/views/setup-wizard-installation-step.php:34
+msgid "Getting installed"
+msgstr "Instalando..."
+
+#: inc/views/setup-wizard-plugin-item-compatibility.php:20
+#: inc/views/setup-wizard-theme-item.php:17
+msgid "More information"
+msgstr "Más información"
+
+#: inc/views/setup-wizard-plugin-item-compatibility.php:28
+#: inc/views/setup-wizard-plugin-item.php:38
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/views/setup-wizard-plugins-select-step.php:56
+msgid "Step 3 - Selecting plugins"
+msgstr "Seleccione sus plugins"
+
+#: inc/views/setup-wizard-plugins-select-step.php:60
+msgid "Continue"
+msgstr "Continuar"
+
+#: inc/views/setup-wizard-plugins-select-step.php:63
+msgid "The plugins couldn't get retrieved. Please refresh the page."
+msgstr "No se han podido cargar los plugins. Vuelva a cargar la página."
+
+#: inc/views/setup-wizard-plugins-select-step.php:66
+msgid "You already installed all the plugins we recommend. Nice job!"
+msgstr "Ya ha instalado todos los plugins recomendados. ¡Enhorabuena!"
+
+#: inc/views/setup-wizard-plugins-select-step.php:69
+msgid "Install all selected theme/plugins"
+msgstr "Instalar selección"
+
+#: inc/views/setup-wizard-plugins-select-step.php:70
+msgid "Select the desired plugins to expand the range of functions in your WordPress installation."
+msgstr "Con los plugins puede ampliar su página web con funciones adicionales. Estos plugins se adaptan al tipo de página web %s:"
+
+#: inc/views/setup-wizard-plugins-select-step.php:83
+msgid "Recommended plugins:"
+msgstr "Recomendadas para su página web"
+
+#: inc/views/setup-wizard-plugins-select-step.php:100
+msgid "These plugins are worth a try as well:"
+msgstr "Estos plugins también pueden gustarle"
+
+#: inc/views/setup-wizard-plugins-select-step.php:121
+#: inc/views/setup-wizard-theme-select-step.php:66
+msgid "Back to the beginning"
+msgstr "Volver al inicio"
+
+#: inc/views/setup-wizard-site-select-step.php:23
+msgid "Step 1 - Selecting website type"
+msgstr "Seleccione su tipo de página web"
+
+#: inc/views/setup-wizard-site-select-step.php:25
+msgid "Here you can select the desired website type."
+msgstr "Todos los tipos de páginas web le ofrecen una selección de temas y plugins optimizados por nosotros."
+
+#: inc/views/setup-wizard-site-select-step.php:47
+#: inc/views/setup-wizard-theme-select-step.php:57
+msgid "Select"
+msgstr "Seleccionar"
+
+#: inc/views/setup-wizard-site-select-step.php:56
+msgid "The website types couldn't get retrieved. Please refresh the page."
+msgstr "No se han podido cargar los tipos de página web. Vuelva a cargar la página."
+
+#: inc/views/setup-wizard-theme-item.php:43
+msgid "By %s"
+msgstr "De %s"
+
+#: inc/views/setup-wizard-theme-select-step.php:36
+msgid "Step 2 - Selecting appearance"
+msgstr "Seleccione su diseño"
+
+#: inc/views/setup-wizard-theme-select-step.php:38
+msgid "You can select the desired design here."
+msgstr "Con los temas puede escoger la apariencia de su página web. Todos los temas se podrán adaptar y personalizar posteriormente. Le recomendamos los siguientes temas:"
+
+#: inc/views/setup-wizard-theme-select-step.php:47
+msgid "Keep Current Theme"
+msgstr "Mantener tema actual"
+
+#: inc/welcome-panel.php:21
+msgid "Create your own WordPress website in just a few steps."
+msgstr "Configurar y optimizar página web"
+
+#: inc/welcome-panel.php:22
+msgid "1&1 WP Assistant enables you to get a quick start in WordPress with selected themes and plugins."
+msgstr "Cargue su página web y optimícela con temas y plugins seleccionados."
+
+#: inc/welcome-panel.php:26
+msgid "Get Started"
+msgstr "Comenzar ahora"
+
+#: inc/welcome-panel.php:29
+msgid "Dismiss"
+msgstr "No guardar modificaciones"
+
+#. Plugin Name of the plugin/theme
+msgid "1&1 WP Assistant"
+msgstr "Asistente de 1&1 WP"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.1and1.com"
+msgstr "http://www.1and1.es"
+
+#. Description of the plugin/theme
+msgid "WordPress Setup Wizard"
+msgstr "Asistente de configuración de WordPress"
+
+#. Author of the plugin/theme
+msgid "1&1"
+msgstr "1&1"
+
+msgid "Activate"
+msgstr "Seleccionar"
+
+msgid "<strong>Untested</strong> with your install "
+msgstr "<strong>No probado</strong> con su instalación"
+
+msgid "<strong>Incompatible</strong> with your install "
+msgstr "<strong>No compatible</strong> con su instalación"
+
+msgid "<strong>Compatible</strong> with your install "
+msgstr "<strong>Compatible</strong> con su instalación"
+
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "%s descarga"
+msgstr[1] "%s descargas"
+
+msgid "Activate all selected theme/plugins"
+msgstr "Aplicar selección"
+
+msgid "Theme activated: <strong>%s</strong>"
+msgstr "Su tema: <strong>%s</strong>"
+
+msgid "There was no theme selected, so the current theme is still active."
+msgstr "No ha seleccionado ningún tema nuevo y sigue utilizando el tema seleccionado hasta ahora."
+
+msgid "Plugin deactivated: <strong>%s</strong>"
+msgstr "Plugin desactivado: <strong>%s</strong>"
+
+msgid "Plugin activated: <strong>%s</strong>"
+msgstr "Plugin activado: <strong>%s</strong>"
+
+msgid "Assistant completed."
+msgstr "Configuración finalizada"
+
+msgid "Shop configuration"
+msgstr "Configurar tienda online"
+
+msgid "You find this 1&1 WP Assistant anytime in your %s"
+msgstr "Su asistente de 1&1 WP se encuentra a su disposición en %s"
+
+msgid "tools menu"
+msgstr "Sección de herramientas"
+
+msgctxt "website-types"
+msgid "gallery_headline"
+msgstr "Fotos"
+
+msgctxt "website-types"
+msgid "blog_headline"
+msgstr "Blog"
+
+msgctxt "website-types"
+msgid "personal_headline"
+msgstr "Particular"
+
+msgctxt "website-types"
+msgid "business_headline"
+msgstr "Empresas"
+
+msgctxt "website-types"
+msgid "eshop_headline"
+msgstr "Tienda online"
+
+msgctxt "website-types"
+msgid "gallery_description"
+msgstr "¡Control creativo total! Presente sus fotos con temas optimizados y con los mejores plugins para galerías."
+
+msgctxt "website-types"
+msgid "blog_description"
+msgstr ""
+"Cree su blog y comparta su contenido fácilmente en las redes sociales.\n"
+" \n"
+"Estos elegantes temas y plugins le ayudarán a presentar sus textos de forma atractiva."
+
+msgctxt "website-types"
+msgid "personal_description"
+msgstr "Tan única como su propia historia. Cree ahora su página web privada."
+
+msgctxt "website-types"
+msgid "business_description"
+msgstr "Cree una página web profesional y llegue a sus clientes de forma online con potentes herramientas de marketing."
+
+msgctxt "website-types"
+msgid "eshop_description"
+msgstr "Cree una tienda online con WordPress y WooCommerce, la potente plataforma para páginas web eCommerce."
+
+msgid "1&1 Community News"
+msgstr "Novedades y consejos"
+
+msgid "No items"
+msgstr "No se ha seleccionado nada"
+
+msgid "Configure your WordPress in just a few steps."
+msgstr "Configurar y optimizar página web ahora"
+
+msgid "1&1 Managed WP WordPress"
+msgstr "WordPress"
+
+msgid "Change your Domain"
+msgstr "Modificar dominio"
+
+msgid "your WordPress is managed by 1&1"
+msgstr "Su WordPress lo administra 1&1"
+
+msgid "Website-Url-Description"
+msgstr "Puede administrar y gestionar de forma sencilla su URL (dominio) en <a href=\"https://clientes.1and1.es/AllMyApplications\" target=\"_blank\">1&1 Centro de Aplicaciones</a>."
+
+msgid "or"
+msgstr "o"
+
+msgctxt "dashboard-panel-first-run"
+msgid "Customize and upgrade your website now."
+msgstr "Adaptar y ampliar página web ahora"
+
+msgid "setup_assistant_header"
+msgstr "Configurar WordPress"
+
+msgid "title_link_logo"
+msgstr "1&1"
+
+msgid "title_link_visual"
+msgstr "Adaptar WordPress"
+
+msgid "community_widget_link_label"
+msgstr "Mostrar más"
+
+msgid "assistant_pluginpage_jump_to_top"
+msgstr "Arriba"
+
+msgid "Next Steps"
+msgstr "Elementos básicos"
+
+msgid "Edit your front page"
+msgstr "Editar su página web"
+
+msgid "Write your first blog post"
+msgstr "Crear nueva entrada"
+
+msgid "Add an About page"
+msgstr "Crear nueva página"
+
+msgid "customize_theme_in_widget"
+msgstr "Adaptar diseño"
+
+msgid "dashboard_widget_website-type"
+msgstr "Modificar su tipo de página web"
+
+msgid "dashboard_widget_design"
+msgstr "Seleccionar otro diseño"
+
+msgid "dashboard_widget_plugins"
+msgstr "Modificar sus plugins"
+
+msgid "activate_sitetype_form_submitted_message"
+msgstr "Esperando..."
+
+msgid "activate_theme_form_submitted_message"
+msgstr "Esperando..."
+
+msgid "activate_plugins_form_submitted_message"
+msgstr "Esperando..."
+
+msgid "prelive_staging_textpart_online"
+msgstr "Esta página web utiliza un dominio temporal."
+
+msgid "prelive_staging_textpart_common"
+msgstr "Su página web utiliza todavía este dominio temporal:"
+
+msgid "prelive_staging_textpart_adminarea"
+msgstr "Será más fácil encontrar su página web en los buscadores si cuenta con un dominio correcto. <a href=\\\"https://clientes.1and1.es/AllMyApplications\\\" target=\\\"_blank\\\">Crear dominio</a>"
+
+msgid "domain_change_link"
+msgstr "https://clientes.1and1.es/AllMyApplications"
+
+msgid "dashboard_change_domain"
+msgstr "Seleccionar dominio"
+
+msgid "dashboard_activate_ssl"
+msgstr "Activar SSL"
+
+msgid "theme_install_other_button_install_other"
+msgstr "Añadir un nuevo tema"
+
+msgid "theme_install_other_modal_title"
+msgstr "Añadir un nuevo tema"
+
+msgid "theme_install_other_modal_title_desc"
+msgstr "¿Desea finalizar el asistente y pasar a la sección Temas?"
+
+msgid "theme_install_other_modal_confirm"
+msgstr "Añadir temas (finalizar el asistente)"
+
+msgid "theme_install_other_modal_cancel"
+msgstr "Volver al asistente"
+
+msgid "plugin_install_other_button_install_other"
+msgstr "Añadir más plugins"
+
+msgid "plugin_install_other_modal_title"
+msgstr "Añadir más plugins"
+
+msgid "plugin_install_other_modal_title_desc"
+msgstr "¿Desea descartar las modificaciones y pasar a la sección Plugins?"
+
+msgid "plugin_install_other_modal_confirm"
+msgstr "Añadir plugins (finalizar el asistente)"
+
+msgid "plugin_install_other_modal_cancel"
+msgstr "Volver al asistente"
+
+# ----------------- panels----------------------
+msgctxt "dashboard-panel-first-run"
+msgid "1&1 Managed WP WordPress"
+msgstr "WordPress"
+
+msgctxt "dashboard-panel-first-run"
+msgid "Configure your WordPress in just a few steps."
+msgstr "Configurar y optimizar página web ahora"
+
+msgctxt "dashboard-panel-first-run"
+msgid "1&1 WP Assistant enables you to get a quick start in WordPress with selected themes and plugins."
+msgstr "Cargue su página web y optimícela con temas y plugins seleccionados."
+
+msgctxt "dashboard-panel-second-run"
+msgid "1&1 Managed WP WordPress"
+msgstr "WordPress"
+
+msgctxt "dashboard-panel-second-run"
+msgid "Customize and upgrade your website now."
+msgstr "Adaptar y ampliar página web ahora"
+
+msgid "Bullet Point 1"
+msgstr "Cada tipo de página web ofrece una selección optimizada de plugins y temas que se ajustan perfectamente a su página web."
+
+msgid "Bullet Point 2"
+msgstr "Los temas le ofrecen estupendos diseños, modernas tecnologías web y máxima flexibilidad. Más adelante podrá adaptar y personalizar su tema fácilmente. ¡Escoja su estilo!"
+
+msgid "Bullet Point 3"
+msgstr "Los plugins mejoran todavía más su página web. Incluya en su página web funciones adicionales con los plugins."
+
+msgctxt "plugins-panel-first-run"
+msgid "1&1 Managed WP WordPress"
+msgstr "WordPress"
+
+msgctxt "plugins-panel-first-run"
+msgid "Configure your WordPress in just a few steps."
+msgstr "Configurar y optimizar página web ahora"
+
+msgctxt "plugins-panel-first-run"
+msgid "1&1 WP Assistant enables you to get a quick start in WordPress with selected themes and plugins."
+msgstr "Cargue su página web y optimícela con temas y plugins seleccionados."
+
+msgctxt "plugins-panel-second-run"
+msgid "1&1 Managed WP WordPress"
+msgstr "WordPress"
+
+msgctxt "plugins-panel-second-run"
+msgid "Configure your WordPress in just a few steps."
+msgstr "Añadir y adaptar plugins"
+
+msgctxt "plugins-panel-second-run"
+msgid "1&1 WP Assistant enables you to get a quick start in WordPress with selected themes and plugins."
+msgstr "Los plugins mejoran todavía más su página web. Incluya en su página web funciones adicionales con los plugins. "
+
+msgctxt "update-core-info"
+msgid "Your WordPress installation ..."
+msgstr "Instale las actualizaciones que figuran a continuación. De las actualizaciones de su software de Wordpress nos encargamos nosotros. Más información: <a href=\"http://community.1and1.com/managed-wordpress/?pk_campaign=wpassistent&pk_kwd=wordpress-managed-es\">Actualizaciones automáticas con WordPress Gestionado de 1&1</a>."
+
+msgctxt "json_plugins_section"
+msgid "msg_headline_recommended"
+msgstr "Nuestras recomendaciones"
+
+msgctxt "json_plugins_section"
+msgid "msg_subline_recommended"
+msgstr "Le recomendamos estos plugins como diseño básico para su tipo de página web."
+
+msgctxt "json_plugins_section"
+msgid "msg_headline_seo"
+msgstr "Optimización en buscadores (SEO)"
+
+msgctxt "json_plugins_section"
+msgid "msg_subline_seo"
+msgstr "Ser encontrado en buscadores. Con estos plugins podrá optimizar su página web para Google & Co. Más información: <a href=\"http://community.1and1.com/managed-wordpress/?pk_campaign=wpassistent&pk_kwd=wordpress-managed-es\" target=\"_blank\">SEO con WordPress Gestionado</a>."
+
+msgctxt "json_plugins_section"
+msgid "msg_headline_analytics"
+msgstr "Medición del éxito (Analytics) y seguridad jurídica"
+
+msgctxt "json_plugins_section"
+msgid "msg_subline_analytics"
+msgstr "Tenga en cuenta la información y las indicaciones jurídicas de estos plugins. Más información: <a href=\"http://community.1and1.com/managed-wordpress/?pk_campaign=wpassistent&pk_kwd=wordpress-managed-es\" target=\"_blank\">Analytics con WordPress Gestionado de 1&1</a>."
+
+msgctxt "json_plugins_section"
+msgid "msg_headline_more"
+msgstr "Otros plugins"
+
+msgctxt "json_plugins_section"
+msgid "msg_subline_more"
+msgstr "Estos plugins podrán ayudarle a aplicar sus nuevas ideas a su página web."
+
+msgctxt "json_plugins_section"
+msgid "msg_headline_eshop"
+msgstr "eCommerce"
+
+msgctxt "json_plugins_section"
+msgid "msg_subline_eshop"
+msgstr "Amplíe su tienda online con estos plugins para funciones nuevas."
+
+msgid "first_steps_community_link"
+msgstr "Primeros pasos"
+
+msgid "community_link_url"
+msgstr "http://community.1and1.com/managed-wordpress/?pk_campaign=wpassistent&pk_kwd=wordpress-managed-es"
+
+#~ msgctxt "dashboard-panel"
+#~ msgid "Bullet Point 1"
+#~ msgstr "Jeder Website-Typ bietet dir eine optimierte Auswahl von Plugins und Themes, die perfekt zu deiner Website passen."
+
+#~ msgctxt "dashboard-panel"
+#~ msgid "Bullet Point 2"
+#~ msgstr "Themes bieten dir tolle Designs, moderne Web-Technologien und maximale Flexibilität. Du kannst dein Theme später einfach anpassen und individualisieren. Wähle deinen Stil!"
+
+#~ msgctxt "dashboard-panel"
+#~ msgid "Bullet Point 3"
+#~ msgstr "Plugins machen deine Website noch besser. Erweitere jetzt deine Website mit Plugins um zusätzliche Features."

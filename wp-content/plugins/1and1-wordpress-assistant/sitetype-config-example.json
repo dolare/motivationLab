@@ -1,0 +1,90 @@
+{
+    "sitetypes": {
+        "example": {
+            "_comment": "Add themes and plugins here.",
+            "headline": "Headline",
+            "description": "Description",
+            "image": "example.png",
+            "themes": [
+                "social-magazine",
+                "gazette",
+                "responsive"
+            ],
+            "plugin_categories": [
+                "recommended",
+                "more",
+                "analytics"
+            ]
+        }
+    },
+    
+    "plugins": {
+        "akismet": {
+            "languages": "any",
+            "category": {
+                "example": "recommended"
+            }
+        },
+
+        "akismet-privacy-policies": {
+            "languages": "any",
+            "category": {
+                "example": "recommended"
+            }
+        },
+
+        "buddypress": {
+            "languages": "any",
+            "category": {
+                "example": "more"
+            }
+        },
+
+        "google-analytics-for-wordpress": {
+            "languages": "any",
+            "category": {
+                "example": "analytics"
+            }
+        },
+
+        "hello-dolly": {
+            "languages": "any",
+            "category": {
+                "any": "more"
+            }
+        },
+
+        "tinymce-advanced": {
+            "languages": [
+                "fr_FR",
+                "de_DE"
+            ],
+            "category": {
+                "any": "recommended"
+            }
+        },
+
+        "wf-cookie-consent": {
+            "languages": [
+                "es_AR"
+            ],
+            "category": {
+                "example": "analytics"
+            }
+        },
+
+        "wordpress-seo": {
+            "languages": "any",
+            "category": {
+                "any": "seo"
+            }
+        },
+
+        "wp-piwik": {
+            "languages": "any",
+            "category": {
+                "example": "analytics"
+            }
+        }
+    }
+}

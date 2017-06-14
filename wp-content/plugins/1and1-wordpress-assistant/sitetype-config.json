@@ -1,0 +1,283 @@
+{
+    "sitetypes": {
+        "gallery": {
+            "_comment": "Add themes and plugins here, to show them for galleries.",
+            "headline": "gallery_headline",
+            "description": "gallery_description",
+            "image": "wp-assistentvi-laptop_Gallery.png",
+            "themes": [
+                "photoline-lite",
+                "lens",
+                "cubic",
+                "boardwalk",
+                "trance",
+                "alum",
+                "receptar"
+            ],
+            "plugin_categories": [
+                "recommended",
+                "seo",
+                "analytics",
+                "more"
+            ]
+        },
+
+        "blog": {
+            "_comment": "Add themes and plugins here, to show them for blogs.",
+            "headline": "blog_headline",
+            "description": "blog_description",
+            "image": "wp-assistentvi-laptop_Blog.png",
+            "themes": [
+                "social-magazine",
+                "gazette",
+                "queue",
+                "lens",
+                "dispatch",
+                "omega",
+                "responsive",
+                "colormag"
+            ],
+            "plugin_categories": [
+                "recommended",
+                "seo",
+                "analytics",
+                "more"
+            ]
+        },
+
+        "personal": {
+            "_comment": "Add themes and plugins here, to show them for personal websites.",
+            "headline": "personal_headline",
+            "description": "personal_description",
+            "image": "wp-assistentvi-laptop_Personal.png",
+            "themes": [
+                "gazette",
+                "trance",
+                "queue",
+                "dispatch",
+                "omega",
+                "social-magazine"
+            ],
+            "plugin_categories": [
+                "recommended",
+                "seo",
+                "analytics",
+                "more"
+            ]
+        },
+
+        "business": {
+            "_comment": "Add themes and plugins here, to show them for business websites.",
+            "headline": "business_headline",
+            "description": "business_description",
+            "image": "wp-assistentvi-laptop_Business.png",
+            "themes": [
+                "mk",
+                "argent",
+                "dispatch",
+                "omega",
+                "colormag",
+                "responsive"
+            ],
+            "plugin_categories": [
+                "recommended",
+                "seo",
+                "analytics",
+                "more"
+            ]
+        },
+
+        "eshop": {
+            "_comment": "Add themes and plugins here, to show them for e-commerce websites.",
+            "headline": "eshop_headline",
+            "description": "eshop_description",
+            "image": "wp-assistentvi-laptop_Eshop.png",
+            "themes": [
+                "exoplanet",
+                "business-press",
+                "azera-shop",
+                "maxstore",
+                "styled-store",
+                "ocin-lite",
+                "vogue",
+                "alpha-store"
+            ],
+            "plugin_categories": [
+                "recommended",
+                "eshop",
+                "seo",
+                "analytics",
+                "more"
+            ]
+        }
+    },
+
+    "plugins": {
+        "woocommerce": {
+            "languages": "any",
+            "category": {
+                "eshop": "recommended"
+            }
+        },
+
+        "tinymce-advanced": {
+            "languages": "any",
+            "category": {
+                "any": "recommended"
+            }
+        },
+
+        "affilinet-performance-module": {
+            "languages": [
+                "de_DE",
+                "de_DE_formal",
+                "de_CH",
+                "de_CH_informal",
+                "en_GB",
+                "en_US",
+                "fr_FR",
+                "nl_NL",
+                "nl_NL_formal"
+            ],
+            "category": {
+                "any": "recommended"
+            }
+        },
+
+        "akismet": {
+            "languages": "any",
+            "category": {
+                "gallery": "more",
+                "blog": "recommended",
+                "personal": "recommended",
+                "business": "recommended",
+                "eshop": "recommended"
+            }
+        },
+
+        "akismet-privacy-policies": {
+            "languages": "any",
+            "category": {
+                "gallery": "more",
+                "blog": "recommended",
+                "personal": "recommended",
+                "business": "recommended",
+                "eshop": "recommended"
+            }
+        },
+
+        "codistoconnect": {
+            "languages": "any",
+            "category": {
+                "eshop": "eshop"
+            }
+        },
+
+        "dhl-woocommerce-shipping-method": {
+            "languages": "any",
+            "category": {
+                "eshop": "eshop"
+            }
+        },
+
+        "contact-form-7": {
+            "languages": "any",
+            "category": {
+                "gallery": "more",
+                "blog": "more",
+                "personal": "more",
+                "business": "recommended",
+                "eshop": "recommended"
+            }
+        },
+
+        "google-analytics-for-wordpress": {
+            "languages": "any",
+            "category": {
+                "any": "analytics"
+            }
+        },
+
+        "nextgen-gallery": {
+            "languages": "any",
+            "category": {
+                "gallery": "recommended",
+                "blog": "more",
+                "personal": "recommended",
+                "business": "more",
+                "eshop": "more"
+            }
+        },
+
+        "regenerate-thumbnails": {
+            "languages": "any",
+            "category": {
+                "gallery": "recommended",
+                "blog": "more",
+                "personal": "more",
+                "business": "more",
+                "eshop": "more"
+            }
+        },
+
+        "shariff-sharing": {
+            "languages": "any",
+            "category": {
+                "gallery": "more",
+                "blog": "recommended",
+                "personal": "more",
+                "business": "more",
+                "eshop": "more"
+            }
+        },
+
+        "webappick-product-feed-for-woocommerce": {
+            "languages": "any",
+            "category": {
+                "eshop": "eshop"
+            }
+        },
+
+        "wf-cookie-consent": {
+            "languages": "any",
+            "category": {
+                "any": "analytics"
+            }
+        },
+
+        "woocommerce-germanized": {
+            "languages": "any",
+            "category": {
+                "eshop": "eshop"
+            }
+        },
+
+        "woocommerce-novalnet-gateway": {
+            "languages": "any",
+            "category": {
+                "eshop": "eshop"
+            }
+        },
+
+        "wordpress-seo": {
+            "languages": "any",
+            "category": {
+                "any": "seo"
+            }
+        },
+
+        "wp-piwik": {
+            "languages": "any",
+            "category": {
+                "any": "analytics"
+            }
+        },
+
+        "wysija-newsletters": {
+            "languages": "any",
+            "category": {
+                "any": "more"
+            }
+        }
+    }
+}

@@ -1,0 +1,395 @@
+# Copyright (C) 2016 1&1
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1&1 WP Assistant 4.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/1and1-wordpress-assistant\n"
+"POT-Creation-Date: 2016-12-07 13:13:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#. Plugin Name of the plugin/theme
+msgid "1&1 WP Assistant"
+msgstr ""
+
+#: 1and1-wordpress-assistant/1and1-wordpress-assistant.php:254
+msgid ""
+"The 1&1 WP Assistant could not be activated. To activate the plugin, you "
+"need WordPress 3.5 or higher."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/cron-update-deactivated-plugins.php:119
+msgid "Once every 10 seconds"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/dashboard-widget.php:45
+msgid "1&1 Community News"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/dashboard-widget.php:108
+msgid "No items"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/dashboard-widget.php:146
+msgid "community_widget_link_label"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/modify-settings-page.php:48
+#: 1and1-wordpress-assistant/inc/modify-settings-page.php:49
+msgid "Website-Url-Description"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:104
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:50
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:152
+msgid "Step 3 - Selecting plugins"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:108
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:61
+msgid ""
+"Select the desired plugins to expand the range of functions in your "
+"WordPress installation."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:143
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:276
+msgid "Activate all selected theme/plugins"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:185
+msgid "assistant_pluginpage_jump_to_top"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:281
+#: 1and1-wordpress-assistant/inc/theme-manager.php:66
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:98
+msgid "Back to the beginning"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:359
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:363
+#: 1and1-wordpress-assistant/inc/theme-manager.php:126
+msgid "By %s"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:409
+msgid "Activate"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:446
+msgid "plugin_install_other_button_install_other"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:453
+msgid "plugin_install_other_modal_title"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:456
+msgid "plugin_install_other_modal_title_desc"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:460
+msgid "plugin_install_other_modal_confirm"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/plugin-manager.php:465
+msgid "plugin_install_other_modal_cancel"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:22
+msgid "Sorry, you do not have permission to access the 1&1 WP Assistant."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:134
+msgid "Theme activated: <strong>%s</strong>"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:136
+msgid "There was no theme selected, so the current theme is still active."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:173
+msgid "Plugin deactivated: <strong>%s</strong>"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:199
+msgid "Plugin activated: <strong>%s</strong>"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:217
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-header.php:21
+msgid "setup_assistant_header"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:219
+msgid "Assistant completed."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:220
+msgid ""
+"You are now ready to use your WordPress installation. You can continue "
+"customizing the selected theme or write your first blog post."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:223
+msgid "Write a post"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:225
+msgid "Go to Dashboard"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:230
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:75
+msgid "View your site"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/setup-wizard-dispatcher.php:235
+msgid "Processing setup:"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/sitetype-filter.php:236
+msgid "Recommended plugins %s :"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/sitetype-filter.php:238
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:82
+msgid "These plugins are worth a try as well:"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:39
+msgid "Step 2 - Selecting appearance"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:41
+msgid "You can select the desired design here."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:79
+msgid "Keep Current Theme"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:83
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-site-select-step.php:44
+msgid "Select"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:97
+msgid "More information"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:161
+msgid "theme_install_other_button_install_other"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:170
+msgid "theme_install_other_modal_title"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:173
+msgid "theme_install_other_modal_title_desc"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:177
+msgid "theme_install_other_modal_confirm"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/theme-manager.php:182
+msgid "theme_install_other_modal_cancel"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-header.php:28
+msgid "Website Type"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-header.php:40
+msgid "Appearance"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-header.php:48
+msgid "Plugins"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:53
+msgid "Continue"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:56
+msgid "The plugins couldn't get retrieved. Please refresh the page."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:58
+msgid "You already installed all the plugins we recommend. Nice job!"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:60
+msgid "Install all selected theme/plugins"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-plugins-select-step.php:71
+msgid "Recommended plugins:"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-site-select-step.php:19
+msgid "Step 1 - Selecting website type"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-site-select-step.php:20
+msgid "Here you can select the desired website type."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/views/setup-wizard-site-select-step.php:52
+msgid "The website types couldn't get retrieved. Please refresh the page."
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:23
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:60
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:77
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:79
+msgid "domain_change_link"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:23
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:60
+msgid "Change your Domain"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:25
+msgid "your WordPress is managed by 1&1"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:39
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:139
+msgid "title_link_logo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.1and1.com"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:42
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:142
+msgid "title_link_visual"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:49
+msgid "Next Steps"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:65
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:68
+msgid "Edit your front page"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:66
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:69
+msgid "Add additional pages"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:70
+msgid "Add a blog post"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:72
+msgid "Write your first blog post"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:73
+msgid "Add an About page"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:77
+msgid "dashboard_change_domain"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:79
+msgid "dashboard_activate_ssl"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:84
+msgid "More Actions"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:92
+msgid "Manage <a href=\"%1$s\">widgets</a> or <a href=\"%2$s\">menus</a>"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:96
+msgid "Manage widgets"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:98
+msgid "Manage menus"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:105
+msgid "Turn comments on or off"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:108
+msgid "community_link_url"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:108
+msgid "first_steps_community_link"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:111
+msgid "customize_theme_in_widget"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:118
+msgid "dashboard_widget_website-type"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:121
+msgid "dashboard_widget_design"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:124
+msgid "dashboard_widget_plugins"
+msgstr ""
+
+#: 1and1-wordpress-assistant/inc/welcome-panel.php:156
+msgid "Get Started"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Setup Assistant"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "1&1"
+msgstr ""
+
+#: 1and1-wordpress-assistant/1and1-wordpress-assistant.php:167
+msgctxt "update-core-info"
+msgid "Your WordPress installation ..."
+msgstr ""
+
+#: 1and1-wordpress-assistant/1and1-wordpress-assistant.php:209
+msgctxt "website-types"
+msgid "Gallery"
+msgstr ""
+
+#: 1and1-wordpress-assistant/1and1-wordpress-assistant.php:212
+msgctxt "website-types"
+msgid "Blog"
+msgstr ""
+
+#: 1and1-wordpress-assistant/1and1-wordpress-assistant.php:215
+msgctxt "website-types"
+msgid "Personal Website"
+msgstr ""
+
+#: 1and1-wordpress-assistant/1and1-wordpress-assistant.php:218
+msgctxt "website-types"
+msgid "Business Website"
+msgstr ""
