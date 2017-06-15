@@ -1,4 +1,4 @@
- <?php
+<?php
 /**
  * List Table API: WP_Posts_List_Table class
  *

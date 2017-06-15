@@ -1,4 +1,4 @@
- <?php
+<?php
 
 // -- Post related Meta Boxes
 
@@ -48,7 +48,7 @@ function post_submit_meta_box( $post, $args = array() ) {
 <?php if ( is_post_type_viewable( $post_type_object ) ) : ?>
 <div id="preview-action">
 <?php
-$preview_link = esc_url( get_preview_post_link( $post ) );
+$preview_link = esc_url( :get_preview_post_link( $post ) );
 if ( 'publish' == $post->post_status ) {
 	$preview_button_text = __( 'Preview Changes' );
 } else {

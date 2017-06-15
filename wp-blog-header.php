@@ -1,4 +1,4 @@
- <?php
+<?php
 /**
  * Loads the WordPress environment and template.
  *
